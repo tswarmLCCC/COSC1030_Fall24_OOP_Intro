@@ -1,0 +1,3 @@
+This program needs to have its FoodItem class finished.  Have a look at main.cpp to see what
+sort of constructure signature to build for it.  Start by 'promising' those functions in 
+FoodItem.h and then implimenting them in FoodItem.cpp!

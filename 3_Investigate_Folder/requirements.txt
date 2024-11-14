@@ -1,0 +1,13 @@
+Given main() and GVCoin class, complete method ConsecutiveHeads() in main() that counts and returns the number of flips
+ taken to achieve a desired number of consecutive heads without a tails. Function ConsecutiveHeads() has a GVCoin object 
+ and an integer representing the desired number of consecutive heads without a tails as parameters. Review the definition
+  of "GVCoin.cpp" by clicking on the orange arrow.
+
+Note: For testing purposes, a GVCoin object is created in main() using a pseudo-random number generator with a fixed seed
+ value. The program uses a seed value of 15 during development, but when submitted, a different seed value will be used 
+ for each test case.
+
+Ex: If the GVCoin object is created with a seed value of 15 and the desired number of consecutive heads is 5, then 
+the function ConsecutiveHeads() returns 53 and the program outputs:
+
+Total number of flips for 5 consecutive heads: 53

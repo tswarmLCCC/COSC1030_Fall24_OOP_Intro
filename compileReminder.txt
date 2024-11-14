@@ -1,0 +1,21 @@
+You will need to compile and link these files using the console.
+
+To compile the two cpp files in your assiggnment, you can do this:
+
+g++ -c Triangle.cpp main.cpp
+
+or
+
+c++ -c Triangle.cpp main.cpp if using Replit
+
+You should see Triangle.o and main.o
+
+You'll also need to link these like this:
+
+g++ -o Triangle.o main.o
+
+and finally run main:
+
+./main.exe 
+
+The other PRIMM examples will be similar, just with different names.
